@@ -37,8 +37,10 @@ Carthage/Build/
 # Instead, use fastlane to re-generate the screenshots whenever they are needed.
 # For more information about the recommended setup visit:
 # https://docs.fastlane.tools/best-practices/source-control/#source-control
+Makefile
 
-fastlane/report.xml
-fastlane/Preview.html
-fastlane/screenshots/**/*.png
-fastlane/test_output
+*.ko
+*.mod
+*.mod.c
+*.mod.o
+*.o
