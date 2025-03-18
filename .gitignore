@@ -12,6 +12,8 @@ modules.order
 .my_driver.mod.cmd
 .my_driver.mod.o.cmd
 .my_driver.o.cmd
+.Module.symvers.cmd
+.modules.order.cmd
 
 # Xcode
 #
@@ -52,4 +54,3 @@ Carthage/Build/
 # Instead, use fastlane to re-generate the screenshots whenever they are needed.
 # For more information about the recommended setup visit:
 # https://docs.fastlane.tools/best-practices/source-control/#source-control
-
