@@ -1,0 +1,17 @@
+"set tabstop=2
+"set shiftwidth=4
+"set expandtab
+
+"set fileencodings=utf-8,gbk,gb2312,gb18030
+"set fileencoding=utf8
+"set encoding=utf8
+"
+
+set t_Co=256 "t_Co means terminal color
+syntax on
+set background=dark
+set tabstop=4 softtabstop=4 shiftwidth=4
+set guifont=Fira\ Code:h12
+set lines=50 columns=135
+set scrolloff=10
+
