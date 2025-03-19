@@ -1,0 +1,8 @@
+set nu
+set cursorline
+set bg=light
+set tabstop=4
+set mouse=a
+set ruler
+syntax enable
+colorscheme monokai
