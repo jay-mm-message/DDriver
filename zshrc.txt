@@ -18,7 +18,7 @@ fi
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/Users/chun-chieh/.oh-my-zsh"
+export ZSH="/home/ubuntu/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -126,4 +126,9 @@ alias git='LANG=en_GB git'
 export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-22.jdk/Contents/Home
 export PATH=$JAVA_HOME/bin:$PATH
 
-# echo "alias g++='g++ -std=c++17'"
+# echo "alias g++='g++ -std=c++17'"source ~/powerlevel10k/powerlevel10k.zsh-theme
+
+alias si="sudo apt-get install"
+alias ss="sudo apt-get search"
+alias gco="git clone"
+
